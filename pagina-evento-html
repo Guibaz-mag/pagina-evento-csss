@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convenção Digital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Conveção Digital</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Experiencias</a></li>
+                <li><a href="#">Sobre nós</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!--Banner com destaque-->
+    <main>
+        <section class="banner">
+            <div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2k0IZ7O1d2QWWyu0TmSSL1llgD11UID3uQ&s" />
+                <h2>Venha conhecer mais sobre a maior feira digital do Brasil</h2>
+               <p>. </p>
+                
+                
+                <a href="#" class="btn">Compre seu ingresso</a>
+            
+            </div>
+        </section>
+        <section class="experiencia">
+            <div class="container">
+                <h2>Nossos Parceiros</h2>
+            <div class="card-grid">
+            
+                <!--grid de cards-->
+                <div id="card-01" class="card">
+                    <div class="card-content">
+                        <img src="https://i0.wp.com/www.ivstech.com.br/wp-content/uploads/2023/07/image.png"alt="imagem Perfectpay" />
+                        <h3>Perfectpay</h3>
+                        <p>Uma das melhores gestões de pagamentos e marketing de afiliados que oferece soluções completas para todo digital.</p>
+                    </div>
+                </div>
+                <div id="card-02" class="card">
+                    <div class="card-content">
+                        <img src="https://www.wbuy.com.br/arquivos/aplicativos/loja-virtual-completa-wbuy,appmax-341.png" alt="imagem AppMax" />
+                        <h3>AppMax</h3>
+                        <p>é uma plataforma de processamento de vendas online, realizando apenas a intermediação de pagamento entre você e o site parceiro</p>
+                    </div>
+                </div>
+                <div id="card-03" class="card">
+                    <div class="card-content">
+                        <img src="https://www.cashtime.com.br/twitter-image.png" alt="imagem cashtime" />
+                        <h3>CashTime</h3>
+                        <p>Sua principal atividade econômica é Atividades de cobranças e informações cadastrais</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>
+    </main>
+    <footer>
+        <p class="foot_direitos">2024 - Convenção Digital. todos os direitos reservados.</p>
+    </footer>
+    
+       
+
+    </div>
+
+    <script src="CP02FRONT/"></script>
+</body>
+
+</html>
